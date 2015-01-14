@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "新博客诞生"
+categories: 杂事
+---
+
+将博客从Google App Engine 迁移到 Github,告别`Micolog`,也告别以前的自己，重新轻装上路。
+
+新博客用 [jekll](http://jekll.com) 搭建,选择了一款比较简洁的模版。
+
+以前的文章，全部不再导入。
+
+这是第一篇文章：
+
+
+{% highlight swift%}
+let str = "Hello world"
+println(str)
+{% endhighlight %}
